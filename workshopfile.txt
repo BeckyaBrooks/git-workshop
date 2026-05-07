@@ -1,4 +1,4 @@
 Hey! You found me!
 
 You can mess with me as you like, add text, delete text, whatever...
-
+This change happened after doing git checkout. This is the change that we kept in the workshop.
